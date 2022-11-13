@@ -2,7 +2,7 @@
 <h1>Hi I'm Hyungjin <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"></h1>
 
 
-<h3 >🛠 Languages and Tools</h3>
+<h3 >📚 Tech Stack</h3>
 
 <a href="#">
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp

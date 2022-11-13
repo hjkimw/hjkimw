@@ -1,7 +1,6 @@
   
 <h1>Hi I'm Hyungjin <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"></h1>
 
-
 <h3 >📚 Tech Stack</h3>
 
 <a href="#">
@@ -13,7 +12,7 @@
 <a href="#">
  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/></a>&nbsp
 <a href="#">
-<img src="https://img.shields.io/badge/Three.js-ffffff?style=flat-square&logo=three.js&logoColor=black"/></a>&nbsp
+<img src="https://img.shields.io/badge/Three.js-ffffff?style=flat-square&logo=three.js&logoColor=black"/></a>&nbsp<br>
 <a href="#">
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/></a>&nbsp
 <a href="#">

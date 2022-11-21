@@ -25,4 +25,5 @@
 <br>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjkimw&show_icons=false&theme=midnight-purple&hide_border=true&text_color=999999)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjkimw&show_icons=false&theme=midnight-purple&hide_border=true&text_color=999999)](https://github.com/anuraghazra/github-readme-stats)
+ -->

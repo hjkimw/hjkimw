@@ -16,6 +16,8 @@
 <!-- <a href="#">
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/></a>&nbsp -->
 <a href="#">
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
+<a href="#">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
 <a href="#">
 <img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp

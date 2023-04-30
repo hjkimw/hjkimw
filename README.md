@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi I'm Hyungjin <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"></h2>
 
-<!--
-**hjkimw/hjkimw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 Tech Stack
+<span>
+<img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+<img src="https://img.shields.io/badge/-TypeScript-%233178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+<img src="https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=React&logoColor=black">
+<img src="https://img.shields.io/badge/-Redux-%23764ABC?style=for-the-badge&logo=Redux&logoColor=white">
+<img src="https://img.shields.io/badge/-Three.js-%23FFFFFF?style=for-the-badge&logo=Three.js&logoColor=black">
+<img src="https://img.shields.io/badge/-Greensock-%2388CE02?style=for-the-badge&logo=Greensock&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/-HTML-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=Sass&logoColor=white">  
+</span>
 
-Here are some ideas to get you started:
+## 🛠 Tools
+<span>
+<img src="https://img.shields.io/badge/-Notion-%23FFFFFF?style=for-the-badge&logo=Notion&logoColor=black">
+<img src="https://img.shields.io/badge/-Figma-%23222222?style=for-the-badge&logo=Figma&logoColor=white">
+<img src="https://img.shields.io/badge/-Adobe-%23FF0000?style=for-the-badge&logo=Adobe&logoColor=white">
+</span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## 🍀 Status
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjkimw&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+ 
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhjkimw&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=true"/> 

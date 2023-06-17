@@ -1,4 +1,4 @@
-# Hi I'm Hyungjin <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"></h2>
+# Hi I'm Hyungjin <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="28px"></h2>
 
 ## 📚 Tech Stack
 <span>
@@ -11,7 +11,8 @@
 <br>
 <img src="https://img.shields.io/badge/-HTML-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-<img src="https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=Sass&logoColor=white">  
+<img src="https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=Sass&logoColor=white">
+<img src="https://img.shields.io/badge/-Webpack-%238DD6F9?style=for-the-badge&logo=Webpack&logoColor=white">
 </span>
 
 ## 🛠 Tools

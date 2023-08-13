@@ -8,13 +8,13 @@
 <img src="https://img.shields.io/badge/-Redux-%23764ABC?style=for-the-badge&logo=Redux&logoColor=white">
 <img src="https://img.shields.io/badge/-Three.js-%23FFFFFF?style=for-the-badge&logo=Three.js&logoColor=black">
 <img src="https://img.shields.io/badge/-Greensock-%2388CE02?style=for-the-badge&logo=Greensock&logoColor=white">
+<img src="https://img.shields.io/badge/-Next.js-%23000000?style=for-the-badge&logo=Next.js&logoColor=#FFFFFF">
 <br>
 <img src="https://img.shields.io/badge/-HTML-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=Sass&logoColor=white">
 <img src="https://img.shields.io/badge/-Webpack-%238DD6F9?style=for-the-badge&logo=Webpack&logoColor=white">
 <img src="https://img.shields.io/badge/-Mongodb-%23001E2B?style=for-the-badge&logo=Mongodb&logoColor=#47A248">
-<img src="https://img.shields.io/badge/-Firebase-%23029BE5?style=for-the-badge&logo=Firebase&logoColor=#FFCA28">
 </span>
 
 ## 🛠 Tools

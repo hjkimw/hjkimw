@@ -1,4 +1,4 @@
-# Hi I'm Hyungjin <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="28px"></h2>
+<h1> Hi, I'm Hyungjin <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="34px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;" /></h1>
 
 ## 📚 Tech Stack
 <span>
@@ -10,7 +10,7 @@
 <br>
 <img src="https://img.shields.io/badge/-Three.js-%23FFFFFF?style=for-the-badge&logo=Three.js&logoColor=black">
 <img src="https://img.shields.io/badge/-Greensock-%2388CE02?style=for-the-badge&logo=Greensock&logoColor=white">
-<img src="https://img.shields.io/badge/-FramerMotion-%23655ff2?style=for-the-badge&logo=Framer&logoColor=white">
+<img src="https://img.shields.io/badge/-Framer Motion-%23655ff2?style=for-the-badge&logo=Framer&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/-HTML-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white">
@@ -18,6 +18,8 @@
 <img src="https://img.shields.io/badge/-Webpack-%238DD6F9?style=for-the-badge&logo=Webpack&logoColor=white">
 <img src="https://img.shields.io/badge/-Mongodb-%23001E2B?style=for-the-badge&logo=Mongodb&logoColor=#47A248">
 </span>
+
+<br>
 
 ## 🛠 Tools
 <span>

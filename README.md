@@ -6,10 +6,6 @@
 - 🏡 [HyugjinWorld](http://www.google.com "portfolio")
 
 
-<a href="https://velog.io/@hjux"><img src="https://img.shields.io/badge/hjux.log-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hjux"/></a> 
-<a href="mailto:hjux@kakao.com"><img src="https://img.shields.io/badge/Kakao Mail-FFCD00?style=flat-square&logo=gmail&logoColor=white&link=hjux@kakao.com"/></a>
-
-
 ## 🧑🏻‍💻 About Me
 ```javascript
 const aboutMe = {

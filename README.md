@@ -3,8 +3,6 @@
 - 🧑🏻‍💻 Developer & Designer
 - 🚀 Frontend
 - 💛 JavaScript, ThreeJs
-- 🏡 [HyugjinWorld](http://www.google.com "portfolio")
-
 
 ## 🧑🏻‍💻 About Me
 ```javascript
@@ -25,6 +23,7 @@ const aboutMe = {
       'NextJs',
       'R3F',
       'Vue',
+      'TailwindCSS',
       'SCSS',
       'HTML',
       'CSS'
@@ -37,11 +36,12 @@ const aboutMe = {
     ]
   },
   interests: [
+    'WebGL',
     'Web Animation',
     'Web Performance',
-    'SEO',
     '3D',
     'UI/UX'
+    'SEO',        
   ]
 };
 ```

@@ -5,7 +5,7 @@
 - 💛 JavaScript, ThreeJs
 - 🏡 [Portfolio](https://hjkimw-portfolio-all.vercel.app)
 
-## Frontend Developer
+## 🎨 Frontend Developer
 - 🥨 Currently working at [Designfever](https://designfever.com)
 
 ## 🧑🏻‍💻 About Me

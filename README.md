@@ -5,7 +5,10 @@
 - 💛 JavaScript, ThreeJs
 - 🏡 [Portfolio](https://hjkimw-portfolio-all.vercel.app)
 
-## 🧑🏻‍💻 About Me
+### Frontend Developer
+- 🥨 Currently working at [Designfever](https://designfever.com)
+
+### 🧑🏻‍💻 About Me
 
 ```json
 {
@@ -39,7 +42,7 @@
     "Web Animation",
     "Web Performance",
     "Design System",
-    "UI/UX",
+    "UI/UX"
   ]
 }
 ```
